@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SRDateHelper_Tests' do
+  pod 'SRDateHelper', :path => '../'
+  
+  
+end
