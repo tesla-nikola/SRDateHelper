@@ -1,0 +1,6 @@
+framework module SRDateHelper {
+  umbrella header "SRDateHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}

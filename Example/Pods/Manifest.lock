@@ -1,0 +1,16 @@
+PODS:
+  - SRDateHelper (0.1.0)
+
+DEPENDENCIES:
+  - SRDateHelper (from `../`)
+
+EXTERNAL SOURCES:
+  SRDateHelper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SRDateHelper: 8f1d4ef9f4b4e76e9e95bfc6097000508660441c
+
+PODFILE CHECKSUM: 01d65baf6f81bfcab3c369e14d14638fe993fa0a
+
+COCOAPODS: 1.5.3

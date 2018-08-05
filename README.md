@@ -10,7 +10,7 @@
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
-
+Xcode 9+ and Swift 4+
 ## Installation
 
 SRDateHelper is available through [CocoaPods](https://cocoapods.org). To install
